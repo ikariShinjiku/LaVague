@@ -22,7 +22,7 @@ mv chrome-linux64/ ~/
 mv chromedriver-linux64/ ~/
 
 # Install LaVague from main of GitHub repo
-git clone https://github.com/lavague-ai/LaVague.git
+git clone https://github.com/ikariShinjiku/LaVague.git
 pip install -e LaVague
 
 # Change directory to LaVague
